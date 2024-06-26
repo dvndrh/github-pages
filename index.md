@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my page"
+title: "Home"
 ---
 
 # This is an `<h1>` header, which is the largest
@@ -20,3 +20,5 @@ There are only two hard problems in distributed systems:
 - [x] Eat
 - [x] Sleep
 - [ ] Repeat
+
+![A blog post](./_posts/2026-06-26.md)
