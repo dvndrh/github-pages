@@ -21,4 +21,10 @@ There are only two hard problems in distributed systems:
 - [x] Sleep
 - [ ] Repeat
 
-![A blog post](./_posts/2026-06-26.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
