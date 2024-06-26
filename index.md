@@ -21,6 +21,8 @@ There are only two hard problems in distributed systems:
 - [x] Sleep
 - [ ] Repeat
 
+------
+
 <ul>
   {% for post in site.posts %}
     <li>
