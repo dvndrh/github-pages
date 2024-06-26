@@ -1,3 +1,7 @@
+---
+title: "Welcome to my page"
+---
+
 # This is an `<h1>` header, which is the largest
 
 ![self describing](https://imgs.xkcd.com/comics/self_description.png)
